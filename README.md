@@ -1,2 +1,2 @@
 # Biodata_Semantik
-Tugas 2
+Tugas 2 - Membuat Web Semantik
